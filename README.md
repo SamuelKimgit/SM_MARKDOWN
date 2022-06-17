@@ -1,7 +1,14 @@
 # SM_MARKDOWN
 SM_MARKDOWN
 
-## 하이퍼링크
+## 이미지 삽입
+![금](https://github.com/SamuelKimgit/SM_MARKDOWN/blob/main/gold_bar.png)
+
+## 강조
+굵게 표시 : **오늘은 즐거운 금요일 무야호**  
+굵게 표시 : __오늘은 즐거운 금요일 무야호__
+
+## 하이퍼링크 : [pcwk] -> Priview에 표시될 이름 (https://cafe.daum.net/pcwk "PCWK CAFE") -> ("url" "호버 시 나올 텍스트")
 [pcwk](https://cafe.daum.net/pcwk "PCWK CAFE")
 
 ## 가로 선
